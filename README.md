@@ -136,21 +136,11 @@ python cli.py input.wav cover.png -o output.mp4
 * For **4K output**, change scale/pad to `3840x2160` and update the level.
 * For **smaller audio size**, reduce bitrate (`-b:a 128k`).
 
----
-
-## License
-
-This project is licensed under the [MIT License](./LICENSE).
-
----
 
 ## Contributing
 
 Pull requests and issues are welcome. Keep changes focused and minimal.
 
 ```
-
----
-
-Would you like me to also prepare the **LICENSE** and **.gitignore** in the same copy-paste format so you can drop them into your repo together with this README?
+:)
 ```
